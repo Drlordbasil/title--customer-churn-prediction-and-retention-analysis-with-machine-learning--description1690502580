@@ -1,0 +1,13 @@
+The package requirements for this Python program are as follows:
+
+- pandas: Required for handling and manipulating data in the form of DataFrames.
+- numpy: Required for performing mathematical operations on arrays and matrices.
+- matplotlib: Required for creating visualizations such as bar charts and line graphs.
+- seaborn: Required for creating advanced visualizations such as heatmaps and pairplots.
+- sklearn: Required for various machine learning tasks such as model selection, preprocessing, and evaluation. The required sub-modules include train_test_split, StandardScaler, RFE, LogisticRegression, RandomForestClassifier, GradientBoostingClassifier, accuracy_score, precision_score, recall_score, f1_score, KMeans, and AgglomerativeClustering.
+
+You can install all the required packages by running the following command:
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn
+```
